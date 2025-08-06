@@ -1,0 +1,33 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Alice Kumar",
+      "email": "alice@example.com",
+      "phone": "9876543210",
+      "tags": [
+        "Lead",
+        "CEO"
+      ],
+      "address": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "zip": "400001"
+      }
+    },
+    {
+      "id": "514e48f3-635a-4f99-8df5-05eae0eed096",
+      "name": "kaju",
+      "email": "kaju224@gmail.com",
+      "phone": "",
+      "tags": [
+        "CTO"
+      ],
+      "address": {
+        "city": "",
+        "state": "",
+        "zip": ""
+      }
+    }
+  ]
+}
